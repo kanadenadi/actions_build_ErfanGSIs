@@ -15,8 +15,8 @@ on:
     
 env:
   ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V10.3.2.0.PEBCNXM/miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip
-  ROM_NAME: Aonly
-  BUILD_TYPE: ab
+  ROM_NAME: MIUI
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
